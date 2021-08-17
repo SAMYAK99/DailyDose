@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "523475030249",
+    "project_id": "flutter-projects---1",
+    "storage_bucket": "flutter-projects---1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523475030249:android:b3950be00b6fa6c1922078",
+        "android_client_info": {
+          "package_name": "com.popular.cricket.ipl.dailydose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523475030249-0lo6a4l1f9mj8t760tdsdscel77vqpbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6S9QghIOIEkVMoTNQKH8EuSVC5jqXcUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523475030249-0lo6a4l1f9mj8t760tdsdscel77vqpbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
